@@ -1,0 +1,1 @@
+HDIMS (Health Data Integration and Management System) is a scalable, microservices-based healthcare platform built using the MERN stack. It enables real-time patient data management, appointment scheduling, AI chatbot support, and emergency services.  It ensures secure, efficient, and continuous healthcare service delivery.
